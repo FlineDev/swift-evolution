@@ -1,8 +1,8 @@
-# Clock, Instant, and Duration
+# Clock, Instant, and Duration (Summary)
 
 * Proposal: [SE-0329](https://github.com/apple/swift-evolution/blob/main/proposals/0329-clock-instant-duration.md)
+* Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
 * Article: [Swift Evolution Monthly: First Issue](https://www.fline.dev/swift-evolution-monthly-first-issue/#se-0329-clock-instant-and-duration)
-* Author: [Cihat Gündüz](https://github.com/Jeehut)
 
 **Problem:**
 We have many different types to measure & do calculations with continuous time: `Date`, `TimeInterval`, `DispatchTime`, `DispatchTimeInterval`, …Currently, there’s no unified concept of time in all frameworks. Also, `TimeInterval` is technically just a `typealias` for `Double` and is implicitly respresenting time in the unit of “seconds”. There’s no explicitness to the unit, nor are there any APIs available to convert easily between units (like [here](https://github.com/Flinesoft/HandySwift/blob/main/Sources/HandySwift/Extensions/TimeIntervalExt.swift?ref=fline.dev)). Also, as a floating-type, `TimeInterval` is susceptible to [rounding errors](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html?ref=fline.dev#689).
