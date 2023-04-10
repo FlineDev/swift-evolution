@@ -8,8 +8,8 @@ You can also navigate to the proposal you're looking for from the [`proposals` f
 
 ## Contributing
 
-Feel free to provide corrections or updates to the summary articles by just opening a Pull Request with your suggested change. If you want to provide a summary for an older proposal that's not summarized yet, feel free to open a Pull Request with your summary. Note that anything you provide here with a PR falls under the same license and additionally gives [Cihat Gündüz](https://twitter.com/Jeehut) the rights to edit and reshare the summary in other places, such as a potentially commercial app or website.
+Feel free to provide corrections or updates to the summary articles by just opening a Pull Request with your suggested change. If you want to provide a summary for an older proposal that's not summarized yet, feel free to open a Pull Request with your summary. Note that anything you provide here with a PR falls under the same license and additionally gives [Cihat Gündüz](https://twitter.com/Jeehut) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
 
 ## License
 
-All information, text, and code examples provided here are Open Source licensed under [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) which basically means you can do with it what you want, but you have to re-share any changes or projects you use them under the same license. This is to forbid usage in closed-source projects and keep improvements public. For other non-profit or educational uses, please contact [Cihat Gündüz](license@fline.dev) to get permission.
+All information, text, and code examples provided here are Open Source licensed under [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) which basically means you can do with it what you want, but you have to re-share any changes or projects you use them in under the same license. This is to forbid usage in closed-source projects and keep improvements public. For other non-profit or educational uses, please contact [Cihat Gündüz](license@fline.dev) to get permission – if it helps the community it will be granted.
