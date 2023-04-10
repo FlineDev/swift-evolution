@@ -1,6 +1,6 @@
 # Primary Associated Types in the Standard Library (Summary)
 
-* Proposal: [SE-0358](https://github.com/apple/swift-evolution/blob/main/proposals/0358-primary-associated-types-in-stdlib.md)
+* Full Proposal: [SE-0358](https://github.com/apple/swift-evolution/blob/main/proposals/0358-primary-associated-types-in-stdlib.md)
 * Summary Author: TODO
 
 Not yet summarized.

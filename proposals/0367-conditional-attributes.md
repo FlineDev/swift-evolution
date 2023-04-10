@@ -1,6 +1,6 @@
 # Conditional compilation for attributes (Summary)
 
-* Proposal: [SE-0367](https://github.com/apple/swift-evolution/blob/main/proposals/0367-conditional-attributes.md)
+* Full Proposal: [SE-0367](https://github.com/apple/swift-evolution/blob/main/proposals/0367-conditional-attributes.md)
 * Summary Author: TODO
 
 Not yet summarized.

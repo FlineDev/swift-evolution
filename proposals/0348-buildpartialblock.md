@@ -1,6 +1,6 @@
 # `buildPartialBlock` for result builders (Summary)
 
-* Proposal: [SE-0348](https://github.com/apple/swift-evolution/blob/main/proposals/0348-buildpartialblock.md)
+* Full Proposal: [SE-0348](https://github.com/apple/swift-evolution/blob/main/proposals/0348-buildpartialblock.md)
 * Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
 * Article: [Swift Evolution Monthly: April ‘22](https://www.fline.dev/swift-evolution-monthly-april-22/#se-0348-buildpartialblock-for-result-builders)
 

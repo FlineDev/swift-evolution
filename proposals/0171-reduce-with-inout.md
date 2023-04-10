@@ -1,6 +1,6 @@
 # Reduce with `inout` (Summary)
 
-* Proposal: [SE-0171](https://github.com/apple/swift-evolution/blob/main/proposals/0171-reduce-with-inout.md)
+* Full Proposal: [SE-0171](https://github.com/apple/swift-evolution/blob/main/proposals/0171-reduce-with-inout.md)
 * Summary Author: N/A
 
 Not yet summarized.

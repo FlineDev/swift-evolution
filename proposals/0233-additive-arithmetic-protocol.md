@@ -1,6 +1,6 @@
 # Make  `Numeric`  Refine a new  `AdditiveArithmetic`  Protocol (Summary)
 
-* Proposal: [SE-0233](https://github.com/apple/swift-evolution/blob/main/proposals/0233-additive-arithmetic-protocol.md)
+* Full Proposal: [SE-0233](https://github.com/apple/swift-evolution/blob/main/proposals/0233-additive-arithmetic-protocol.md)
 * Summary Author: N/A
 
 Not yet summarized.

@@ -1,6 +1,6 @@
 # Introducing the `!!` "Unwrap or Die" operator to the Swift Standard Library (Summary)
 
-* Proposal: [SE-0217](https://github.com/apple/swift-evolution/blob/main/proposals/0217-bangbang.md)
+* Full Proposal: [SE-0217](https://github.com/apple/swift-evolution/blob/main/proposals/0217-bangbang.md)
 * Summary Author: N/A
 
 Not yet summarized.
