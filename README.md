@@ -41,6 +41,11 @@ Here's a full ordered list of all proposals summarized so far in this repository
 * [SE-0370: Pointer Family Initialization Improvements and Better Buffer Slices](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0370-pointer-family-initialization-improvements.md)
 * [SE-0371: Isolated synchronous deinit](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0371-isolated-synchronous-deinit.md)
 * [SE-0372: Document Sorting as Stable](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0372-document-sorting-as-stable.md)
+* [SE-0373: Lift all limitations on variables in result builders](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0373-vars-without-limits-in-result-builders.md)
+* [SE-0374: Add sleep(for:) to Clock](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0374-clock-sleep-for.md)
+* [SE-0375: Opening existential arguments to optional parameters](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0375-opening-existential-optional.md)
+* [SE-0376: Function Back Deployment](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
+* [SE-0377: `borrowing` and `consuming` parameter ownership modifiers](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0377-parameter-ownership-modifiers.md)
 
 
 ## Contributing
