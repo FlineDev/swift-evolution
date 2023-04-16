@@ -12,7 +12,6 @@ Here's a full ordered list of all proposals summarized so far in this repository
 * [SE-0329: Clock, Instant, and Duration](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0329-clock-instant-duration.md)
 * [SE-0339: Module Aliasing For Disambiguation](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0339-module-aliasing-for-disambiguation.md)
 * [SE-0341: Opaque Parameter Declarations](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
-* [SE-0341: Opaque Parameter Declarations](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
 * [SE-0344: Distributed Actor Runtime](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0344-distributed-actor-runtime.md)
 * [SE-0345: `if let` shorthand for shadowing an existing optional variable](https://github.com/apple/swift-evolution/blob/main/proposals/0345-if-let-shorthand.md)
 * [SE-0346: Lightweight same-type requirements for primary associated types](https://github.com/apple/swift-evolution/blob/main/proposals/0346-light-weight-same-type-syntax.md)
@@ -26,13 +25,19 @@ Here's a full ordered list of all proposals summarized so far in this repository
 * [SE-0354: Regex Literals](https://github.com/apple/swift-evolution/blob/main/proposals/0354-regex-literals.md)
 * [SE-0355: Regex Syntax and Run-time Construction](https://github.com/apple/swift-evolution/blob/main/proposals/0355-regex-syntax-run-time-construction.md)
 * [SE-0356: Swift Snippets](https://github.com/apple/swift-evolution/blob/main/proposals/0356-swift-snippets.md)
+* [SE-0357: Regex-powered string processing algorithms](https://github.com/apple/swift-evolution/blob/main/proposals/0357-regex-string-processing-algorithms.md)
+* [SE-0358: Primary Associated Types in the Standard Library](https://github.com/apple/swift-evolution/blob/main/proposals/0358-primary-associated-types-in-stdlib.md)
+* [SE-0359: Build-Time Constant Values](https://github.com/apple/swift-evolution/blob/main/proposals/0359-build-time-constant-values.md)
+* [SE-0360: Opaque result types with limited availability](https://github.com/apple/swift-evolution/blob/main/proposals/0360-opaque-result-types-with-availability.md)
+* [SE-0361: Extensions on bound generic types](https://github.com/apple/swift-evolution/blob/main/proposals/0361-bound-generic-extensions.md)
+* [SE-0362: Piecemeal adoption of upcoming language improvements](https://github.com/apple/swift-evolution/blob/main/proposals/0362-piecemeal-future-features.md)
 
 
 ## Contributing
 
 Feel free to provide corrections or updates to the summary articles by just opening a Pull Request with your suggested change. If you want to provide a summary for an older proposal that's not summarized yet, feel free to open a Pull Request with your summary. And don't forget to add your summary page to the list above in your PR.
 
-Note that anything you contribute to this repo with a PR falls under the same license and additionally gives [Cihat Gündüz](https://twitter.com/Jeehut) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
+Note that anything you contribute to this repo with a PR falls under the same license and additionally gives [Cihat Gündüz](https://fline.dev/about) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
 
 
 ## License
