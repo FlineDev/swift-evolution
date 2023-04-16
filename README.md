@@ -46,6 +46,13 @@ Here's a full ordered list of all proposals summarized so far in this repository
 * [SE-0375: Opening existential arguments to optional parameters](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0375-opening-existential-optional.md)
 * [SE-0376: Function Back Deployment](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
 * [SE-0377: `borrowing` and `consuming` parameter ownership modifiers](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0377-parameter-ownership-modifiers.md)
+* [SE-0378: Package Registry Authentication](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0378-package-registry-auth.md)
+* [SE-0379: Swift Opt-In Reflection Metadata](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0379-opt-in-reflection-metadata.md)
+* [SE-0380: `if` and `switch` expressions](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0380-if-switch-expressions.md)
+* [SE-0381: DiscardingTaskGroups](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0381-task-group-discard-results.md)
+* [SE-0382: Expression Macros](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0382-expression-macros.md)
+* [SE-0383: Deprecate @UIApplicationMain and @NSApplicationMain](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0383-deprecate-uiapplicationmain-and-nsapplicationmain.md)
+* [SE-0384: Importing Forward Declared Objective-C Interfaces and Protocols](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0384-importing-forward-declared-objc-interfaces-and-protocols.md)
 
 
 ## Contributing
