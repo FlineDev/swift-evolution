@@ -1,6 +1,11 @@
 # Isolated synchronous deinit (Summary)
 
 * Full Proposal: [SE-0371](https://github.com/apple/swift-evolution/blob/main/proposals/0371-isolated-synchronous-deinit.md)
-* Summary Author: TODO
+* Summary Author: [Cihat Gündüz](https://fline.dev/about)
+* Article: [Swift Evolution Monthly: September ‘22](https://www.fline.dev/swift-evolution-monthly-september-22/#se-0371-isolated-synchronous-deinit)
 
-Not yet summarized.
+This proposal is another one that probably won't sound like a huge deal to most app developers. Especially because most didn't have the chance to make full use of `actor` types yet (including myself). Introduced with [SE-306](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md?ref=fline.dev) in Swift 5.5, they help deal with concurrently executed logic that "acts" on the same data in parallel. A good sign that you should probably consider using them more is when you have classes as data models in your app. Chances are that you might be accessing them simultaneously. And migrating them over to `actor` types should be possible, given that actors are also reference types like `class`es.
+
+In Swift, it's common for types that hold onto other data or dependencies to automatically get rid of these in a `deinit` method, rather than requiring a `close()` like method that needs to be explicitly called. When initializers were settled in the Swift actor world with [SE-0237](https://github.com/apple/swift-evolution/blob/main/proposals/0327-actor-initializers.md?ref=fline.dev), the deinitializer's access [was limited](https://github.com/apple/swift-evolution/blob/main/proposals/0327-actor-initializers.md?ref=fline.dev#deinitializers) to `Sendable` stored properties only. All value types ( `enum`s, `struct`s) and all *immutable* reference types ( `class`es) can be easily marked as `Sendable`, which means the data is safe to pass across threads. This proposal weakens that limitation by being smart about the details of the state without compromising safety. This allows a `deinit` function to additionally access some **non**- `Sendable` state, preventing the need of having to provide a `close()`function or do internal reference counting.
+
+While I don't fully understand this proposal's impact even after reading it twice, it sounds a lot like a "rounding things off" kind of proposal to me, which we will all appreciate once we got more used to writing `actor` types. Currently, I guess, it mostly affects Server-side Swift developers and lower-level framework authors.
