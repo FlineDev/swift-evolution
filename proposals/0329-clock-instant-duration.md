@@ -1,7 +1,7 @@
 # Clock, Instant, and Duration (Summary)
 
 * Full Proposal: [SE-0329](https://github.com/apple/swift-evolution/blob/main/proposals/0329-clock-instant-duration.md)
-* Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
+* Summary Author: [Cihat Gündüz](https://fline.dev/about)
 * Article: [Swift Evolution Monthly: First Issue](https://www.fline.dev/swift-evolution-monthly-first-issue/#se-0329-clock-instant-and-duration)
 
 **Problem:**

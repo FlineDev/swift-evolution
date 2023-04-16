@@ -1,7 +1,7 @@
 # `buildPartialBlock` for result builders (Summary)
 
 * Full Proposal: [SE-0348](https://github.com/apple/swift-evolution/blob/main/proposals/0348-buildpartialblock.md)
-* Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
+* Summary Author: [Cihat Gündüz](https://fline.dev/about)
 * Article: [Swift Evolution Monthly: April ‘22](https://www.fline.dev/swift-evolution-monthly-april-22/#se-0348-buildpartialblock-for-result-builders)
 
 This one will only concern you *directly* if you try [writing a DSL using Result Builders](https://developer.apple.com/videos/play/wwdc2021/10253/?ref=fline.dev). But even as a user of frameworks like SwiftUI or Point-Free’s [swift-parsing](https://github.com/pointfreeco/swift-parsing?ref=fline.dev), you are going to benefit from this *indirectly* because it **significantly reduces the number of overloads** the library authors have to write to make things like `VStack` support multiple subviews.

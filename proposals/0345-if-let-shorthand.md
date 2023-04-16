@@ -1,7 +1,7 @@
 # `if let` shorthand for shadowing an existing optional variable (Summary)
 
 * Full Proposal: [SE-0345](https://github.com/apple/swift-evolution/blob/main/proposals/0345-if-let-shorthand.md)
-* Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
+* Summary Author: [Cihat Gündüz](https://fline.dev/about)
 * Article: [Swift Evolution Monthly: First Issue](https://www.fline.dev/swift-evolution-monthly-first-issue/#se-0345-if-let-shorthand-for-shadowing-an-existing-optional-variable)
 
 **Problem:**

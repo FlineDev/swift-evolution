@@ -4,11 +4,36 @@ This repository is here to make it easier to look up summaries of specific Swift
 
 This way, while reading an evolution proposal on GitHub, you can simply replace `Apple` with `FlineDev` in your URL and you'll land on the related proposal summary if one exists. New summaries are added every month, both of new and (relevant) old proposals.
 
-You can also navigate to the proposal you're looking for from the [`proposals` folder](https://github.com/FlineDev/swift-evolution/tree/main/proposals). But note that most proposals before ~SE-0340 don't have a summary yet (you can write one yourself, see below).
+
+## Summaries
+
+Here's a full ordered list of all proposals summarized so far in this repository:
+
+* [SE-0329: Clock, Instant, and Duration](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0329-clock-instant-duration.md)
+* [SE-0339: Module Aliasing For Disambiguation](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0339-module-aliasing-for-disambiguation.md)
+* [SE-0341: Opaque Parameter Declarations](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
+* [SE-0341: Opaque Parameter Declarations](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
+* [SE-0344: Distributed Actor Runtime](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0344-distributed-actor-runtime.md)
+* [SE-0345: `if let` shorthand for shadowing an existing optional variable](https://github.com/apple/swift-evolution/blob/main/proposals/0345-if-let-shorthand.md)
+* [SE-0346: Lightweight same-type requirements for primary associated types](https://github.com/apple/swift-evolution/blob/main/proposals/0346-light-weight-same-type-syntax.md)
+* [SE-0347: Type inference from default expressions](https://github.com/apple/swift-evolution/blob/main/proposals/0347-type-inference-from-default-exprs.md)
+* [SE-0348: `buildPartialBlock` for result builders](https://github.com/apple/swift-evolution/blob/main/proposals/0348-buildpartialblock.md)
+* [SE-0349: Unaligned Loads and Stores from Raw Memory](https://github.com/apple/swift-evolution/blob/main/proposals/0349-unaligned-loads-and-stores.md)
+* [SE-0350: Regex Type and Overview](https://github.com/apple/swift-evolution/blob/main/proposals/0350-regex-type-overview.md)
+* [SE-0351: Regex builder DSL](https://github.com/apple/swift-evolution/blob/main/proposals/0351-regex-builder.md)
+* [SE-0352: Implicitly Opened Existentials](https://github.com/apple/swift-evolution/blob/main/proposals/0352-implicit-open-existentials.md)
+* [SE-0353: Constrained Existential Types](https://github.com/apple/swift-evolution/blob/main/proposals/0353-constrained-existential-types.md)
+* [SE-0354: Regex Literals](https://github.com/apple/swift-evolution/blob/main/proposals/0354-regex-literals.md)
+* [SE-0355: Regex Syntax and Run-time Construction](https://github.com/apple/swift-evolution/blob/main/proposals/0355-regex-syntax-run-time-construction.md)
+* [SE-0356: Swift Snippets](https://github.com/apple/swift-evolution/blob/main/proposals/0356-swift-snippets.md)
+
 
 ## Contributing
 
-Feel free to provide corrections or updates to the summary articles by just opening a Pull Request with your suggested change. If you want to provide a summary for an older proposal that's not summarized yet, feel free to open a Pull Request with your summary. Note that anything you provide here with a PR falls under the same license and additionally gives [Cihat Gündüz](https://twitter.com/Jeehut) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
+Feel free to provide corrections or updates to the summary articles by just opening a Pull Request with your suggested change. If you want to provide a summary for an older proposal that's not summarized yet, feel free to open a Pull Request with your summary. And don't forget to add your summary page to the list above in your PR.
+
+Note that anything you contribute to this repo with a PR falls under the same license and additionally gives [Cihat Gündüz](https://twitter.com/Jeehut) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
+
 
 ## License
 

@@ -1,7 +1,7 @@
 # Lightweight same-type requirements for primary associated types (Summary)
 
 * Full Proposal: [SE-0346](https://github.com/apple/swift-evolution/blob/main/proposals/0346-light-weight-same-type-syntax.md)
-* Summary Author: [Cihat Gündüz](https://github.com/Jeehut)
+* Summary Author: [Cihat Gündüz](https://fline.dev/about)
 * Article: [Swift Evolution Monthly: First Issue](https://www.fline.dev/swift-evolution-monthly-first-issue/#se-0346-lightweight-same-type-requirements-for-primary-associated-types)
 
 **Problem:**
