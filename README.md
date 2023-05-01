@@ -63,6 +63,12 @@ Feel free to provide corrections or updates to the summary articles by just open
 Note that anything you contribute to this repo with a PR falls under the same license and additionally gives [Cihat Gündüz](https://fline.dev/about) the rights to edit, reshare, and re-license the summary for other uses, such as a potentially commercial app or website.
 
 
+## Donation
+
+Swift Evolution Monthly is brought to you by [Cihat Gündüz](https://github.com/Jeehut) in his free time. If you want to thank me and support my writing, please consider **becoming a sponsor on [GitHub](https://github.com/sponsors/Jeehut)** or simply **make a small donation on [PayPal](https://paypal.me/Dschee/5EUR)**.
+Thank you very much for your support, it really keeps me motivated! 🙏
+
+
 ## License
 
 All information, text, and code examples provided here are Open Source licensed under [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) which basically means you can do with it what you want, but you have to re-share any changes or projects you use them in under the same license. This is to forbid usage in closed-source projects and keep improvements public. For other non-profit or educational uses, please contact [Cihat Gündüz](license@fline.dev) to get permission – if it helps the community it will be granted.
