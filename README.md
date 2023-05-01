@@ -9,6 +9,7 @@ This way, while reading an evolution proposal on GitHub, you can simply replace 
 
 Here's a full ordered list of all proposals summarized so far in this repository:
 
+* [SE-0314: `AsyncStream` and `AsyncThrowingStream`](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0314-async-stream.md)
 * [SE-0329: Clock, Instant, and Duration](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0329-clock-instant-duration.md)
 * [SE-0339: Module Aliasing For Disambiguation](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0339-module-aliasing-for-disambiguation.md)
 * [SE-0341: Opaque Parameter Declarations](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
