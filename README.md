@@ -2,7 +2,7 @@
 
 This repository is here to make it easier to look up summaries of specific Swift Evolution proposals. They were first extracted from the [Swift Evolution Monthly newsletter](https://swiftevolution.substack.com/?ref=github.com) and put into one file each within the `proposals` folder and they are all named after the related proposal file in the [official Swift Evolution repo](https://github.com/apple/swift-evolution).
 
-This way, while reading an evolution proposal on GitHub, you can simply replace `Apple` with `FlineDev` in your URL and you'll land on the related proposal summary if one exists. New summaries are added every month, both of new and (relevant) old proposals.
+This way, while reading an evolution proposal on GitHub, you can simply replace `apple` with `FlineDev` in your URL and you'll land on the related proposal summary if one exists. New summaries are added every month, both of new and (relevant) old proposals.
 
 
 ## Summaries
