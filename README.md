@@ -54,6 +54,11 @@ Here's a full ordered list of all proposals summarized so far in this repository
 * [SE-0382: Expression Macros](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [SE-0383: Deprecate @UIApplicationMain and @NSApplicationMain](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0383-deprecate-uiapplicationmain-and-nsapplicationmain.md)
 * [SE-0384: Importing Forward Declared Objective-C Interfaces and Protocols](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0384-importing-forward-declared-objc-interfaces-and-protocols.md)
+* [SE-0388: Convenience Async[Throwing]Stream.makeStream methods](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0388-async-stream-factory.md)
+* [SE-0389: Attached Macros](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0389-attached-macros.md)
+* [SE-0391: Package Registry Publish](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0391-package-registry-publish.md)
+* [SE-0393: Value and Type Parameter Packs](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0393-parameter-packs.md)
+* [SE-0394: Package Manager Support for Custom Macros](https://github.com/FlineDev/swift-evolution/blob/main/proposals/0394-swiftpm-expression-macros.md)
 
 
 ## Contributing

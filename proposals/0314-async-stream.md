@@ -2,7 +2,7 @@
 
 * Full Proposal: [SE-0314](https://github.com/apple/swift-evolution/blob/main/proposals/0314-async-stream.md)
 * Summary Author: [Cihat Gündüz](https://fline.dev/about)
-* Article: [Swift Evolution Monthly: March + April ‘23](https://www.fline.dev/swift-evolution-monthly-mar-apr-23/#accepted-proposals)
+* Article: [Swift Evolution Monthly: March + April ‘23](https://www.fline.dev/swift-evolution-monthly-mar-apr-23/#se-0314-asyncstream-and-asyncthrowingstream)
 
 We all have used many types conforming to the `Sequence` protocol, like `Array`, `Dictionary`, or `String`. It allows for easy iteration with  `for element in array`. The same treatment was added to the new Swift Concurrency world with `AsyncSequence`, which is pretty much the same as `Sequence` but the values aren't immediately available, instead they come at a later time. But usage looks exactly the same, with only the `await` keyword added: `for await element in array`.
 
