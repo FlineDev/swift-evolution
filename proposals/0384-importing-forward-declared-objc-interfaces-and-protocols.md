@@ -2,7 +2,7 @@
 
 * Full Proposal: [SE-0384](https://github.com/apple/swift-evolution/blob/main/proposals/0384-importing-forward-declared-objc-interfaces-and-protocols.md)
 * Summary Author: [Cihat Gündüz](https://fline.dev/about)
-* Article: [Swift Evolution Monthly: Jan + Feb ‘22](https://www.fline.dev/swift-evolution-monthly-jan-feb-22/#se-0384-importing-forward-declared-objective-c-interfaces-and-protocols)
+* Article: [Swift Evolution Monthly: Jan + Feb ‘23](https://www.fline.dev/swift-evolution-monthly-jan-feb-22/#se-0384-importing-forward-declared-objective-c-interfaces-and-protocols)
 
 This concerns everyone calling code written in Objective-C from within Swift (like when using older libraries). The idea is to port a common workaround for cyclic dependencies in Objective-C code to Swift in an automatically synthesized way:
 

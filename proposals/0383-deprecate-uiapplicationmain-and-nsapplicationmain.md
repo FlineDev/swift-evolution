@@ -2,7 +2,7 @@
 
 * Full Proposal: [SE-0383](https://github.com/apple/swift-evolution/blob/main/proposals/0383-deprecate-uiapplicationmain-and-nsapplicationmain.md)
 * Summary Author: [Cihat Gündüz](https://fline.dev/about)
-* Article: [Swift Evolution Monthly: Jan + Feb ‘22](https://www.fline.dev/swift-evolution-monthly-jan-feb-23/#se-0383-deprecate-uiapplicationmain-and-nsapplicationmain)
+* Article: [Swift Evolution Monthly: Jan + Feb ‘23](https://www.fline.dev/swift-evolution-monthly-jan-feb-23/#se-0383-deprecate-uiapplicationmain-and-nsapplicationmain)
 
 The 'Introduction' section of this proposal summarizes this pretty well:
 

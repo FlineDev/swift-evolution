@@ -2,7 +2,7 @@
 
 * Full Proposal: [SE-0382](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * Summary Author: [Cihat Gündüz](https://fline.dev/about)
-* Article: [Swift Evolution Monthly: Jan + Feb ‘22](https://www.fline.dev/swift-evolution-monthly-jan-feb-23/#se-0382-expression-macros)
+* Article: [Swift Evolution Monthly: Jan + Feb ‘23](https://www.fline.dev/swift-evolution-monthly-jan-feb-23/#se-0382-expression-macros)
 
 This new feature will introduce a new kind of function-like structure called an "Expression Macro" which will come in very handy to write more expressive libraries and eliminate boilerplate in code. These new macros work very similarly to functions because they take data through arguments, do something with those data and return some new data. But the big difference is that their execution happens during compile time, which means that the data they operate on is not runtime user data, but it's the source code of your app (or library)!
 
